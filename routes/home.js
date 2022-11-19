@@ -5,4 +5,4 @@ const homeController = require('../controllers/home')
 router.get('/', homeController.getIndex) //read
 router.post('/new', homeController.createTicket) //create
 
-module.exports = router
+module.exports = router;
