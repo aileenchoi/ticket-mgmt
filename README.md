@@ -23,3 +23,7 @@ Created using the MERN stack. Node.js, Express, Bootstrap, MongoDB.
 # Run
 
 `npm start`
+
+# Optimizations:
+- Tracking feature (To do, doing) 
+- Auth log in
