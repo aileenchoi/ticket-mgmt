@@ -5,6 +5,9 @@ A full stack managing tool that allows users to keep track of tickets. Users can
 # Technologies
 Created using the MERN stack. Node.js, Express, Bootstrap, MongoDB.
 
+# Walkthrough
+
+https://watch.screencastify.com/v/KIvuS7kAyqqX20xh5KYC
 
 # Install
 
